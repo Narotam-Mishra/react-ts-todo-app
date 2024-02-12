@@ -55,7 +55,7 @@ function App() {
     <Container maxWidth="sm" sx={{ height: "100vh" }}>
       <AppBar position="static">
         <Toolbar>
-          <Typography>TS Todo App</Typography>
+          <Typography style={{textAlign: "center", flexGrow: 1}}>TS Todo App</Typography>
         </Toolbar>
       </AppBar>
 
